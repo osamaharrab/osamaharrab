@@ -1,6 +1,6 @@
 <h1 align="center">I'm Osama Harrab</h1>
 
-<h2 align="center">AI Engineer | Robotics Developer</h2>
+<h2 align="center">AI Engineer </h2>
 <br>
 
 <p align="center">
