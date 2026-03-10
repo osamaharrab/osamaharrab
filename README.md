@@ -65,7 +65,6 @@
     alt="GitHub Streak"
   />
 </p>
-<img src="https://raw.githubusercontent.com/osamaharrab/osamaharrab/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 
 <!-- GitHub Snake يحتاج GitHub Action workflow داخل repository -->
 <!-- فعّله فقط بعد إعداد الـ workflow -->
@@ -76,4 +75,3 @@
     alt="GitHub Snake"
   />
 </p>
-
