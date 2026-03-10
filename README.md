@@ -69,11 +69,11 @@
 
 <!-- GitHub Snake يحتاج GitHub Action workflow داخل repository -->
 <!-- فعّله فقط بعد إعداد الـ workflow -->
-<!--
+
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/osamaharrab/osamaharrab/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Snake"
   />
 </p>
--->
+
